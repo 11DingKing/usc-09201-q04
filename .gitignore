@@ -1,0 +1,11 @@
+.env
+*.key
+*.pem
+node_modules/
+dist/
+build/
+coverage/
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
